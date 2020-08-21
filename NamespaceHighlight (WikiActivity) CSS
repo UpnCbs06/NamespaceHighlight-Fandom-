@@ -1,0 +1,104 @@
+.page-Special_WikiActivity .activity-ns-0 a
+{
+    color:red;
+}
+
+.page-Special_WikiActivity .activity-ns-1 a
+{
+    color:red;
+}
+
+.page-Special_WikiActivity .activity-ns-2 a
+{
+    color:orange;
+}
+
+.page-Special_WikiActivity .activity-ns-3 a
+{
+    color:orange;
+}
+
+.page-Special_WikiActivity .activity-ns-4 a
+{
+    color:yellow;
+}
+
+.page-Special_WikiActivity .activity-ns-5 a
+{
+    color:yellow;
+}
+
+.page-Special_WikiActivity .activity-ns-6 a
+{
+    color:green;
+}
+
+.page-Special_WikiActivity .activity-ns-7 a
+{
+    color:green;
+}
+
+.page-Special_WikiActivity .activity-ns-8 a
+{
+    color:cyan;
+}
+
+.page-Special_WikiActivity .activity-ns-9 a
+{
+    color:cyan;
+}
+
+.page-Special_WikiActivity .activity-ns-10 a
+{
+    color:blue;
+}
+
+.page-Special_WikiActivity .activity-ns-11 a
+{
+    color:blue;
+}
+
+.page-Special_WikiActivity .activity-ns-12 a
+{
+    color:magenta;
+}
+
+.page-Special_WikiActivity .activity-ns-13 a
+{
+    color:magenta;
+}
+
+.page-Special_WikiActivity .activity-ns-14 a
+{
+    color:purple;
+}
+
+.page-Apecial_WikiActivity .activity-ns-15 a
+{
+    color:purple;
+}
+
+.page-Special_WikiActivity .activity-ns-500 a
+{
+    color:gold;
+}
+
+.page-Special_WikiActivity .activity-ns-501 a
+{
+    color:gold;
+}
+
+.page-Special_WikiActivity .activity-ns-502 a
+{
+    color:gold;
+}
+
+.page-Special_WikiActivity .activity-ns-1201 a
+{
+    color:black;
+}
+
+.page-Special_WikiActivity .activity-ns-2001 a
+{
+    color:black;
+}
